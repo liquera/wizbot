@@ -1,0 +1,2 @@
+# wizbot
+mtg discord bot
